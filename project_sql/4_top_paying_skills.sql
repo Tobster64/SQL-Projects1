@@ -29,3 +29,4 @@ engineering, with a premium on skills that facilitate automation and efficent da
 Cloud Computing Expertise: Familiarity with cloud and data engineerig tools (Elasticsearch, Databricks, GCP)
 underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly
 boosts earning potential in data analytics
+*/

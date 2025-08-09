@@ -33,3 +33,4 @@ limit 100
 - Python follows closely with a count of 7
 - Tableau is also highly sought after with a count of 6
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
+*/
